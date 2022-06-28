@@ -1,0 +1,9 @@
+{
+  "name": "hybrids",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kharenzze/hybrids.git",
+  "author": "Paolo <str237@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
