@@ -6,6 +6,9 @@
   "author": "Paolo <str237@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "yarn parcel src/index.html"
+  },
   "devDependencies": {
     "parcel": "^2.6.2"
   }
